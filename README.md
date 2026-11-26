@@ -10,7 +10,7 @@
 ## Entregables
 
 - **Documento PDF:** [Actividad2_BerrioTangarife_JuniorArmando.pdf](Actividad2_BerrioTangarife_JuniorArmando.pdf)
-- **Video en YouTube:** [Actividad 2 Gobernanza SI - Berrio Junior](https://www.youtube.com/watch?v=CODIGO_DEL_VIDEO)
+- **Video en YouTube:** [Actividad 2 Gobernanza SI - Berrio Junior](https://youtu.be/yxd-y2O9nLg) 
 
 ## Resumen
 
