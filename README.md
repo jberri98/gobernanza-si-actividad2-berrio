@@ -9,8 +9,8 @@
 
 ## Entregables
 
-- **Documento PDF:** [Actividad2_Apellido_Nombre.pdf](Actividad2_BerrioTangarife_JuniorArmando.pdf)
-- **Video en YouTube:** [Actividad 2 Gobernanza SI - Apellido Nombre](https://www.youtube.com/watch?v=CODIGO_DEL_VIDEO)
+- **Documento PDF:** [Actividad2_BerrioTangarife_JuniorArmando.pdf](Actividad2_BerrioTangarife_JuniorArmando.pdf)
+- **Video en YouTube:** [Actividad 2 Gobernanza SI - Berrio Junior](https://www.youtube.com/watch?v=CODIGO_DEL_VIDEO)
 
 ## Resumen
 
